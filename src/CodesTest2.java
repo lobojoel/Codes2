@@ -1,7 +1,7 @@
 /**********************************************************************************************************
 Joel 
 Jul 15, 2013
- There are 5 packages with 5 different problems. The fun part is to solve and then refer.
+ There are 5 class files with 5 different problems. The fun part is to solve and then refer.
  The Class names should be self explanatory to explain the purpose of the programs.
  In this project, approximately 3-4 programs are from Project Euler. I encourage you to 
  visit the site and take the coding assignments. Have fun Coding.
